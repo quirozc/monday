@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/monday" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark
@@ -18,7 +18,7 @@ pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide th
 email: carlosmqz93@gmail.com # Add your Email address
 phone: +58 424 8459338 # Add your Phone number
 website: quiroc.github.io # Add your website, do not add http://
-linkedin: carlosquiroz93# Add your Linkedin handle
+linkedin: carlosquiroz93 # Add your Linkedin handle
 github: quirozc # Add your Github handle
 twitter: '@quirozcarlos93' # Add your Twitter handle
 
